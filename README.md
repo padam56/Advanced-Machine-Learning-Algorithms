@@ -29,20 +29,6 @@ This repository contains my notes, assignments, and projects from the **Advanced
 - **Concepts**: Model evaluation metrics, cross-validation
 - **Skills**: Selecting appropriate models based on performance metrics
 
-## Skills Acquired
-- Advanced regularization techniques
-- Proficiency in ensemble methods (bagging and boosting)
-- Expertise in hyperparameter tuning and feature engineering
-- Ability to combine models effectively for enhanced predictions
-
-## Prerequisites
-- Basic knowledge of Python programming
-- Understanding of Exploratory Data Analysis (EDA)
-- Familiarity with basic machine learning algorithms
-
-## Certification
-Upon successful completion of the course, I received a professional certificate from Fractal Analytics.
-
 ---
 
 Feel free to explore the repository for detailed notes and code implementations related to each module.
